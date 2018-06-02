@@ -1,0 +1,49 @@
+
+
+
+nav {
+	background-color: #cb3837;
+}
+
+div {
+    display: block;
+}
+
+
+h2 {
+    display: block;
+    font-weight: bold;
+}
+
+.heart {
+
+}
+
+.sec3 {
+
+}
+
+.header-navLink {
+	color: #f3f5fb;
+    letter-spacing: 0.015625em;
+}
+
+
+.options {
+	width: 27%;
+	float: right;
+	margin: 1.66%;
+}
+
+
+.f1 {
+    font-size: 3rem;
+}
+
+.near-white {
+    color: #f4f4f4;
+}
+
+.fw2 {
+    font-weight: 200;
+}
